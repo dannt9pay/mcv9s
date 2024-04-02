@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ListLink</name>
+   <tag></tag>
+   <elementGuidId>22c1f651-f17a-4abb-a8cd-90f7555e1f75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_content_container']/div/div[2]/div/div/form/div[8]/div/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-select.link-type</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cd31fa0b-a607-4ce5-8a77-a8a89db9904f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Link type</value>
+      <webElementGuid>65c52dbd-464d-4888-bf0d-887386ff5f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select link-type</value>
+      <webElementGuid>c726094f-0d23-4e87-a1bd-04aa6a83c65e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chọn liên kết FacebookInstagramZaloTik TokShopeeYoutube</value>
+      <webElementGuid>8840a1b1-f799-418e-80ef-f8cf0bd10273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8&quot;]/div[@class=&quot;card mb-5&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;box-links&quot;]/div[@class=&quot;box-links__item mb-5&quot;]/div[@class=&quot;bli-top d-flex justify-content-between align-items-center mb-8&quot;]/div[1]/select[@class=&quot;form-select link-type&quot;]</value>
+      <webElementGuid>a3125dab-bb54-4d37-81ef-df82e6881ac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_content_container']/div/div[2]/div/div/form/div[8]/div/div/div/select</value>
+      <webElementGuid>eb3a93f2-65cd-45fa-a9ae-06ef68a6728a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm liên kết'])[1]/following::select[1]</value>
+      <webElementGuid>d42b8d6e-ec68-4a70-823d-439e1d601cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên kết'])[1]/preceding::select[1]</value>
+      <webElementGuid>7a2215dd-b922-4be1-a195-88fda89d8bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên kết'])[2]/preceding::select[2]</value>
+      <webElementGuid>96c74a7a-9cce-4ca7-b24b-be801c24f571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/select</value>
+      <webElementGuid>9b397214-744e-4ee6-804c-0b9e062aa4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Chọn liên kết FacebookInstagramZaloTik TokShopeeYoutube' or . = 'Chọn liên kết FacebookInstagramZaloTik TokShopeeYoutube')]</value>
+      <webElementGuid>817bc3fa-7b53-4f85-8943-ccaed68b3ff1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

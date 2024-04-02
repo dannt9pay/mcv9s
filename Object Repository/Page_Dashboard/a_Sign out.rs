@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign out</name>
+   <tag></tag>
+   <elementGuidId>25d5fdb4-39fe-433f-81ac-8fa001d9fbed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_sidebar_footer']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-flex.btn-sm.flex-center.btn-custom.btn-danger.overflow-hidden.text-nowrap.px-0.h-40px.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09081a96-241d-4b89-bd8a-597b73f43799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>7bbe93bb-fe89-4de0-83a0-82a532d113de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-trigger</name>
+      <type>Main</type>
+      <value>hover</value>
+      <webElementGuid>ba8a1eb2-38e8-48d3-b500-f6c213f9aa30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-dismiss-</name>
+      <type>Main</type>
+      <value>click</value>
+      <webElementGuid>c6494972-7ff0-4419-9f55-11f7070ca186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-original-title</name>
+      <type>Main</type>
+      <value>200+ in-house components and 3rd-party plugins</value>
+      <webElementGuid>5fa5f2d4-17bf-4deb-a218-064b7e1f6766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-initialized</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>737da0b3-cdcd-4c00-bda9-ecd6dd729231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-flex btn-sm flex-center btn-custom btn-danger overflow-hidden text-nowrap px-0 h-40px w-100</value>
+      <webElementGuid>437811c1-a60c-4dab-987b-dbaeb56f251f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Sign out
+         </value>
+      <webElementGuid>9f86a5b9-9744-4615-971e-52ca9bf13aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_sidebar_footer&quot;)/a[@class=&quot;btn btn-flex btn-sm flex-center btn-custom btn-danger overflow-hidden text-nowrap px-0 h-40px w-100&quot;]</value>
+      <webElementGuid>fc82e981-f8b5-452b-92f8-d7cb0b385355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_sidebar_footer']/a</value>
+      <webElementGuid>7a6ebe5b-5c83-4ece-b543-300ebe908146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>022cc02c-3b86-4fe5-9f39-f5c084e23de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+            Sign out
+         ' or . = '
+            Sign out
+         ')]</value>
+      <webElementGuid>c9c2b241-6861-4637-a9c7-f45b8551ac03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

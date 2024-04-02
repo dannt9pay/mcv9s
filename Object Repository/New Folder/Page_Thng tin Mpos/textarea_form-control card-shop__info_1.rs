@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_form-control card-shop__info_1</name>
+   <tag></tag>
+   <elementGuidId>6bdc4fb5-48c1-4166-afb5-4089fe1d1ea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_content_container']/div/div[2]/div/div/form/div[6]/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>3fbc8d34-04de-46a8-8a5c-5ea06d941f49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>2000</value>
+      <webElementGuid>2165cf78-bd33-4779-b2be-bf0acfd79afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-kt-autosize</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3a855fce-5355-45d9-8dda-4b8ec2a878ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nhập mô tả tiếng anh</value>
+      <webElementGuid>40fde95d-b72a-45cb-94a9-69e18b7d0a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control card-shop__info</value>
+      <webElementGuid>bc661457-f5a2-4702-a878-5f0669184847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-8&quot;]/div[@class=&quot;card mb-5&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;fv-row mb-3&quot;]/textarea[@class=&quot;form-control card-shop__info&quot;]</value>
+      <webElementGuid>1906dd17-1787-49ac-81b4-cf81391779f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_content_container']/div/div[2]/div/div/form/div[6]/textarea</value>
+      <webElementGuid>e27545c1-845c-4cd8-996b-2e17e9f1dc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/textarea</value>
+      <webElementGuid>73125585-4223-4c75-bbdd-d30f071bcc8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Nhập mô tả tiếng anh']</value>
+      <webElementGuid>8b4ead31-4d8d-4cb1-a869-21a8218bbe95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Ninh07</name>
+   <tag></tag>
+   <elementGuidId>0925e95b-a310-43f6-aea4-d04e76c4d559</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b.f-18.text-break.mr-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mpos-container']/div[2]/div/div/div/div/div[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>044274db-4a39-4177-a6a5-65c7f913375a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f-18 text-break mr-2</value>
+      <webElementGuid>adda6bf1-244d-499f-99ec-05cd89bed943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ninh07</value>
+      <webElementGuid>185f71b8-df67-4736-8e86-966e48084ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpos-container&quot;)/div[@class=&quot;body-mpos ant-row&quot;]/div[@class=&quot;sp-mg-15 content-mpos ant-card&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-lg-8&quot;]/div[@class=&quot;bg-white info&quot;]/div[@class=&quot;text-center m-2 mb-0&quot;]/b[@class=&quot;f-18 text-break mr-2&quot;]</value>
+      <webElementGuid>4ab680cb-281d-4bd2-8ba4-4c5d23e2d66f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mpos-container']/div[2]/div/div/div/div/div[2]/b</value>
+      <webElementGuid>f902883e-494e-47fe-bb29-981712eb0ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>71f4ff46-f726-494e-bc4b-0ebb526a1217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Ninh07' or . = 'Ninh07')]</value>
+      <webElementGuid>6bd97ceb-c966-49ad-a3bb-74396925009f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

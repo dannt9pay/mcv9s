@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_form-control mt-3 description ant-input</name>
+   <tag></tag>
+   <elementGuidId>647a3ae3-49a3-47b3-9e19-3df89dd048aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.form-control.mt-3.description.ant-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mpos-container']/div[2]/div/div/div[2]/form/div/div[2]/div/div/span/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>5213d5be-e80e-4696-8724-291a6f5ba027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Mô tả (tối đa 255 ký tự)</value>
+      <webElementGuid>eb483894-3d40-4b43-a514-a03c5a26e9d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>255</value>
+      <webElementGuid>77dc581f-d1bf-47ab-831d-45e292dac2d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control mt-3 description ant-input</value>
+      <webElementGuid>c10e3e11-0862-4a73-8772-1febc91ac77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>4b438c86-6320-4894-87aa-acec717789a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpos-container&quot;)/div[@class=&quot;body-mpos ant-row&quot;]/div[@class=&quot;sp-mg-15 content-mpos ant-card&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-lg-16&quot;]/form[@class=&quot;c_form ant-form ant-form-horizontal&quot;]/div[@class=&quot;c-form-body&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/textarea[@class=&quot;form-control mt-3 description ant-input&quot;]</value>
+      <webElementGuid>c0b2a432-b93b-4f0a-8e2b-3c831ff082d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mpos-container']/div[2]/div/div/div[2]/form/div/div[2]/div/div/span/textarea</value>
+      <webElementGuid>077226ac-b76f-43a0-be11-b3737819d8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>108c39ae-384d-40b8-84c6-a0d47c070a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Mô tả (tối đa 255 ký tự)']</value>
+      <webElementGuid>1f2a15b7-1cad-48fc-acb3-449185e17cdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

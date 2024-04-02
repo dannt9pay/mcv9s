@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chuyn tin</name>
+   <tag></tag>
+   <elementGuidId>b420f445-4cfc-495f-bd8c-4085f7eb5f60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='deposit_withdrawal']/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.sub-menu > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aee9e389-e21c-48af-a8e6-acdbedb2f99f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/transfer-transaction</value>
+      <webElementGuid>8cffe94b-10c5-4ccd-b0de-2aba6abb69f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Chuyển tiền</value>
+      <webElementGuid>3bf3cd96-c341-4c64-a6f7-3d49394afc91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deposit_withdrawal&quot;)/ul[@class=&quot;sub-menu&quot;]/li[3]/a[1]</value>
+      <webElementGuid>63364a60-2e20-4e32-9aae-9a9f7c9e608e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='deposit_withdrawal']/ul/li[3]/a</value>
+      <webElementGuid>7e669ab4-cfd3-4042-9ab0-607c83d8874f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Chuyển tiền')]</value>
+      <webElementGuid>be0f1634-0bc2-44aa-b753-4fed30a85ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/transfer-transaction')]</value>
+      <webElementGuid>38a06e14-833f-4671-98bb-a102c5cea365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[3]/a</value>
+      <webElementGuid>2d0468aa-bd69-4a99-a19b-c4694bf2ff18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/transfer-transaction' and (text() = '  Chuyển tiền' or . = '  Chuyển tiền')]</value>
+      <webElementGuid>f19bd44e-2f1e-455e-b896-f284ae70f95b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

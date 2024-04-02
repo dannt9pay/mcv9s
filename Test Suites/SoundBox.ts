@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SoundBox</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ca1ac249-a14a-44cb-8f17-9892f218b256</testSuiteGuid>
+   <testCaseLink>
+      <guid>5340530d-ba13-4af5-a339-c5f032f9dab6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SoundBox/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e1d3193c-de0b-49c4-ae5c-57b551c6214c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginSB</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e1d3193c-de0b-49c4-ae5c-57b551c6214c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>7221cd35-dd68-4dfa-8de7-8aaacf10fc33</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e1d3193c-de0b-49c4-ae5c-57b551c6214c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>74d2fea7-144d-4754-87f2-c54764cf8141</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e1d3193c-de0b-49c4-ae5c-57b551c6214c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>validate</value>
+         <variableId>466f6c4e-0883-429c-9112-3aa5c5cc05d1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>07a3826a-eabc-4141-b4c6-5d23c97f72ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SoundBox/CountItem</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3469788d-61c5-435c-89de-d6bf931f1412</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TaoVA</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3469788d-61c5-435c-89de-d6bf931f1412</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tentaikhoan</value>
+         <variableId>e74528a8-62f4-4558-9287-c68ebb9de67c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3469788d-61c5-435c-89de-d6bf931f1412</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>soluong</value>
+         <variableId>f192bea8-637f-481a-b6b5-4d95952c67b4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3469788d-61c5-435c-89de-d6bf931f1412</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>mess</value>
+         <variableId>7b82824a-bbc3-4853-9dd7-d74f7f1c941f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

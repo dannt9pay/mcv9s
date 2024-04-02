@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_19 to huu</name>
+   <tag></tag>
+   <elementGuidId>afd70ca8-978e-46bb-94a4-c5a7deb8a78a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mpos-container']/div[2]/div/div/div/div/div[3]/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>deed8282-7d10-41e9-b81c-17276755de3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>info-merchant-span</value>
+      <webElementGuid>8c17ef60-35ca-4da2-a274-8a14cd475bb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>19 to huu</value>
+      <webElementGuid>0447cb1e-6f21-4a34-b6b4-56fbda3fab78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpos-container&quot;)/div[@class=&quot;body-mpos ant-row&quot;]/div[@class=&quot;sp-mg-15 content-mpos ant-card&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-lg-8&quot;]/div[@class=&quot;bg-white info&quot;]/div[@class=&quot;px-2 py-3&quot;]/div[@class=&quot;mb-1 info-merchant-item&quot;]/div[@class=&quot;info-merchant-span&quot;]</value>
+      <webElementGuid>ecc77411-973e-4e1a-bfc0-f74bc48ccc2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mpos-container']/div[2]/div/div/div/div/div[3]/div[4]/div[2]</value>
+      <webElementGuid>fc9c7bb5-e9b3-497a-860c-ea34c7370576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>04fa40db-3c36-4b8c-a433-ec55a548265a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '19 to huu' or . = '19 to huu')]</value>
+      <webElementGuid>dd989673-2fc7-4e7d-8efa-c080ff6a35b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

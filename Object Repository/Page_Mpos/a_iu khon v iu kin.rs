@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_iu khon v iu kin</name>
+   <tag></tag>
+   <elementGuidId>925d4599-4508-4d86-8a03-3a38677d1546</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mpos-container']/div[2]/div/div/div[2]/form/div/div[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-policy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>80d57219-291e-4af5-8194-fee208334348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://storage.googleapis.com/npay/tc-vn-1673922810.pdf</value>
+      <webElementGuid>8b702b67-3d30-4457-8494-a7e99ffc09ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>a89d893b-580e-4d00-9438-75040f5d44ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-policy</value>
+      <webElementGuid>4fd24daa-51a5-4591-9158-acb7f327c4cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>điều khoản và điều kiện.</value>
+      <webElementGuid>124ad8a6-7ac9-425e-94f7-3de5633e3b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpos-container&quot;)/div[@class=&quot;body-mpos ant-row&quot;]/div[@class=&quot;sp-mg-15 content-mpos ant-card&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-lg-16&quot;]/form[@class=&quot;c_form ant-form ant-form-horizontal&quot;]/div[@class=&quot;c-form-body&quot;]/div[@class=&quot;mt-4&quot;]/a[@class=&quot;a-policy&quot;]</value>
+      <webElementGuid>7aa28ffb-38b7-4918-a29c-cd4665c4ed2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mpos-container']/div[2]/div/div/div[2]/form/div/div[5]/a</value>
+      <webElementGuid>e9414865-5a40-4111-aa6b-7131de124ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'điều khoản và điều kiện.')]</value>
+      <webElementGuid>9ed14557-f01b-40e3-aa05-d9c9be753290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://storage.googleapis.com/npay/tc-vn-1673922810.pdf')]</value>
+      <webElementGuid>b0228bab-8f93-4f65-bc0e-c4641295c6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a</value>
+      <webElementGuid>161d2acd-6754-4acd-af8d-6202b249ba12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://storage.googleapis.com/npay/tc-vn-1673922810.pdf' and (text() = 'điều khoản và điều kiện.' or . = 'điều khoản và điều kiện.')]</value>
+      <webElementGuid>316694c7-fa9e-4475-a5cf-e29a06e5ce5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

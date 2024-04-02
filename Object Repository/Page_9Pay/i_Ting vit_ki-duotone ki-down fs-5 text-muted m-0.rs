@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Ting vit_ki-duotone ki-down fs-5 text-muted m-0</name>
+   <tag></tag>
+   <elementGuidId>0b14db04-b943-4f55-8b6d-80b7cffef6fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_page']/div/div/div/div[2]/div/button/span[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.ki-duotone.ki-down.fs-5.text-muted.m-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f1de0781-8ccc-4a9e-b18f-b6ec41e1ef20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ki-duotone ki-down fs-5 text-muted m-0</value>
+      <webElementGuid>9aee489f-bf5c-403b-b399-16ef391cf76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_page&quot;)/div[1]/div[@class=&quot;d-flex flex-column flex-lg-row flex-column-fluid&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row-fluid w-lg-50 p-10 order-2 order-lg-1&quot;]/div[@class=&quot;d-flex flex-stack px-10 mx-auto&quot;]/div[@class=&quot;me-10&quot;]/button[@class=&quot;btn btn-flex btn-link btn-color-gray-700 btn-active-color-primary rotate fs-base&quot;]/span[@class=&quot;d-flex flex-center rotate-180&quot;]/i[@class=&quot;ki-duotone ki-down fs-5 text-muted m-0&quot;]</value>
+      <webElementGuid>d1f0a490-21d5-4bd0-87fc-7b05b1ca117f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_page']/div/div/div/div[2]/div/button/span[2]/i</value>
+      <webElementGuid>4b073f2d-8c1d-43cc-b464-1fa35fe7697d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>276c283b-2c90-4bf4-b3a8-67b7968c5a8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Thng tin ngi thanh ton_bi bi-caret-up-square-fill mx-2</name>
+   <tag></tag>
+   <elementGuidId>203b5620-5510-4b46-be49-d694df86ce97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mpos-container']/div[2]/div/div/div[2]/form/div/div[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-caret-up-square-fill.mx-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9f04a459-ae54-4672-9539-ee6438833201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-caret-up-square-fill mx-2</value>
+      <webElementGuid>09453e99-114c-46cd-854c-2526a4fa2858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mpos-container&quot;)/div[@class=&quot;body-mpos ant-row&quot;]/div[@class=&quot;sp-mg-15 content-mpos ant-card&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-lg-16&quot;]/form[@class=&quot;c_form ant-form ant-form-horizontal&quot;]/div[@class=&quot;c-form-body&quot;]/div[@class=&quot;mt-2&quot;]/a[@class=&quot;a-show-payer-info&quot;]/i[@class=&quot;bi bi-caret-up-square-fill mx-2&quot;]</value>
+      <webElementGuid>161f6272-f127-4e19-99c2-cec8b6c1692e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mpos-container']/div[2]/div/div/div[2]/form/div/div[3]/a/i</value>
+      <webElementGuid>8f7d52ec-b6f3-44a9-a61a-aae36a50c293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>398f94b8-4075-445d-bb56-a9b13efa989c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
