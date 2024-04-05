@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>nganHang</name>
+   <name>button_Ok_Successs</name>
    <tag></tag>
-   <elementGuidId>fea1bea8-2ba0-4396-aa9b-05ca191151b4</elementGuidId>
+   <elementGuidId>955e3d2d-cf5f-4c75-bbb3-e7f16e9f3144</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/div[2]/main/div/div[2]/div[3]/div/div/div/div[2]/div/table/tbody/tr[1]/td[4]/div/div[2]</value>
+         <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

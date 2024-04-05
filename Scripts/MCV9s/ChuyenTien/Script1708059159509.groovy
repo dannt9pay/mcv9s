@@ -99,8 +99,8 @@ WebUI.verifyTextPresent(validateResult, false, FailureHandling.CONTINUE_ON_FAILU
 
 if (validateResult == 'Success') {
 	
-	WebUI.verifyElementVisible(findTestObject('Object Repository/MCV9s/Page_Chuyn tin/button_OK'))
-	WebUI.click(findTestObject('Object Repository/MCV9s/Page_Chuyn tin/button_OK'))
+	WebUI.verifyElementVisible(findTestObject('Object Repository/MCV9s/Page_Chuyn tin/button_Ok_Successs'))
+	WebUI.click(findTestObject('Object Repository/MCV9s/Page_Chuyn tin/button_Ok_Successs'))
 	
 	//Get value phí khi chuyển tiền
 	phi = WebUI.getText(findTestObject('Object Repository/MCV9s/Page_Lch s giao dch/div_0VND'))
