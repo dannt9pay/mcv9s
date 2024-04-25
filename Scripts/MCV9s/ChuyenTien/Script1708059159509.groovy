@@ -149,6 +149,8 @@ if (validateResult == 'Success') {
 	
 	WebUI.click(findTestObject('Object Repository/MCV9s/Page_Lch s giao dch/a_Chuyn tin'))
 	
+	WebUI.waitForElementVisible(inputconfirm, 10)
+	
 } else {
 		
 	WebUI.verifyElementVisible(findTestObject('Object Repository/MCV9s/Page_Chuyn tin/button_OK'))
