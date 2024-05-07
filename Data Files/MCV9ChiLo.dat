@@ -7,11 +7,17 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>a3726ecc-f72b-4708-8578-92e24c64f068</dataFileGUID>
-   <dataSourceUrl>D:\Katalon\MPos\MCV9sChiLoFile.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\Admin 5420\Desktop\testdata\MCV9sChiLo.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Sheet1</sheetName>
+   <sheetName>list_Account</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

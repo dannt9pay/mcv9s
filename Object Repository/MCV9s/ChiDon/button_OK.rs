@@ -6,15 +6,16 @@
    <elementGuidId>55134fbe-6414-43d7-9adc-0b7acc48ce1e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.swal2-confirm.swal2-styled</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[normalize-space()='OK']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dfe3d324-1d15-4e49-a564-402fb40cbd50</webElementGuid>
+      <webElementGuid>d8e5f56a-a0ab-4abb-962a-b491f0ca3227</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c165db7d-5c8b-406c-98c2-0627eeb48f4b</webElementGuid>
+      <webElementGuid>da78ddbf-589c-4c24-8bb5-c798c6444bfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>swal2-confirm swal2-styled</value>
-      <webElementGuid>480a21ed-9c21-4109-b225-c4827b7c3612</webElementGuid>
+      <webElementGuid>2d798ef4-160b-4590-be80-ee0558525f74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>OK</value>
-      <webElementGuid>5e3822b2-c6c7-4520-8d16-a74e2e224b18</webElementGuid>
+      <webElementGuid>9b13a286-351c-413e-9753-f9b163df93e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;body-site&quot;)/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-icon-error swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm swal2-styled&quot;]</value>
-      <webElementGuid>0c440367-f467-4714-9db0-922f75ef54d5</webElementGuid>
+      <webElementGuid>cbdd9f4b-451c-4041-9f96-47963ed92fca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>f2d11c32-cba3-4acd-956a-00c49ec058e3</webElementGuid>
+      <webElementGuid>570082a7-76bd-4325-a6a3-9d9d2eb527a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='body-site']/div[4]/div/div[3]/button</value>
-      <webElementGuid>0e02ae1f-82f6-4cfd-b320-c435732e3173</webElementGuid>
+      <webElementGuid>019c4a77-7aee-426d-8fca-ee7ef477a5c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>34afd82b-b698-47bc-b7dc-e24ebd5eb705</webElementGuid>
+      <webElementGuid>f763bf5e-1f5d-4979-a9f6-5c2eb38d3fc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
-      <webElementGuid>236aa209-2d1e-4b4b-b883-633981edd322</webElementGuid>
+      <webElementGuid>9006f786-4356-44a2-9d9e-177398b8f2da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

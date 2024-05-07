@@ -6,15 +6,16 @@
    <elementGuidId>1bcd7179-2ddd-4685-ba66-1da3b9d6274d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/div[2]/main/div/div[2]/div/div/div[2]/div/div/div/div/form/div/div[1]/div[3]/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;amount&quot;]</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder='Số tiền GD']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b2c54277-21e9-4847-ba04-d0a0172f3498</webElementGuid>
+      <webElementGuid>990c9fcb-38c9-4186-ba82-b5575d7829d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>fdfc0008-5119-4e3e-b71d-8103250addd0</webElementGuid>
+      <webElementGuid>8f68debc-27e4-474c-9c6e-09cc5b3becad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>amount</value>
-      <webElementGuid>278cf306-5d37-424c-a1c9-86fdc876049b</webElementGuid>
+      <webElementGuid>9cf3ec9b-3bd9-4135-8925-f6fbb7aaee80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Số tiền GD</value>
-      <webElementGuid>861e73df-454f-4b4f-817a-80851b08f8bc</webElementGuid>
+      <webElementGuid>c2dc6c00-cee6-41d9-9849-c88a92de17d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +55,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>6506eca4-2235-4d55-bd8c-9c0b94f2fa1a</webElementGuid>
+      <webElementGuid>b928f04b-331b-4451-a387-7a2ddea39eb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control</value>
-      <webElementGuid>922f6bd8-e446-4d97-b9db-4907d546b701</webElementGuid>
+      <webElementGuid>3ddecab3-3bcf-4682-984c-dcf9f74e17ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;create_form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>c3aa8f31-124b-4a1d-a98e-fd6c4ce438b6</webElementGuid>
+      <webElementGuid>e5f66e38-a993-4443-9771-2d8ff2c91fd3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='amount']</value>
-      <webElementGuid>9c6299ae-5d01-474f-a6a9-09c2b8de9341</webElementGuid>
+      <webElementGuid>4a591330-254d-4c05-aeec-05d5c38f40fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='create_form']/div/div/div[3]/input</value>
-      <webElementGuid>ae8392e1-89fa-4052-b4f0-5d793c67e401</webElementGuid>
+      <webElementGuid>4354cb21-5487-4bea-ae8f-857b17362ff0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>5845b0e3-71e1-448b-b6b4-eb9905cfd831</webElementGuid>
+      <webElementGuid>f3ce3112-864d-44e5-8d4d-aab406fe17e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'amount' and @placeholder = 'Số tiền GD']</value>
-      <webElementGuid>066a3070-a766-4226-9010-21f8b73dc754</webElementGuid>
+      <webElementGuid>62526520-5d12-4ff7-b3ae-ee517962916b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

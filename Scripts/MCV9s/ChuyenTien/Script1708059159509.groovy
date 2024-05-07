@@ -33,6 +33,7 @@ numberOnly4 = thuho4.replaceAll(/[^0-9]/, '')
 int intValue4 = Integer.parseInt(numberOnly4)
 
 //Input data tạo lệnh chuyển tiền
+WebUI.waitForElementClickable(findTestObject('Object Repository/MCV9s/Page_Chuyn tin/select_Ti khon ngun                                                             autotest'), 5)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/MCV9s/Page_Chuyn tin/select_Ti khon ngun                                                             autotest'), 
     tknguon, false)

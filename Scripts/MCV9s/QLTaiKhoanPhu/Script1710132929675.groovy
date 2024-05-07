@@ -25,6 +25,8 @@ WebUI.setViewPortSize(1920, 1080)
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/MCV9s/QLtaiKhoan/MenuQLTK'), 2)
 
+WebUI.waitForElementClickable(findTestObject('Object Repository/MCV9s/QLtaiKhoan/MenuQLTK'), 2, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Object Repository/MCV9s/QLtaiKhoan/MenuQLTK'))
 
 WebUI.click(findTestObject('Object Repository/MCV9s/QLtaiKhoan/menuDSTKPhu'))

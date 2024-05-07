@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>aa71c17d-4452-4e89-bafc-b67085e52427</dataFileGUID>
-   <dataSourceUrl>D:\Katalon\MPos\MCVchiDon.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\Admin 5420\Desktop\testdata\MCVchiDon.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

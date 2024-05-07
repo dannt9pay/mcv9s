@@ -4,12 +4,12 @@
    <name>MCV3</name>
    <tag></tag>
    <UUID>4c821e0e-13c0-4d2c-97ef-462d4e53e3f6</UUID>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\Katalon\MCV9s\MCV3.prj</projectFileLocation>
+   <projectFileLocation>D:\Test_MCV\MCV9s\MCV3.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

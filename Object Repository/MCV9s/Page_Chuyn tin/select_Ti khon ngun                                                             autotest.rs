@@ -7,15 +7,16 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>select[name=&quot;user_source_id&quot;]</value>
+         <value>select[name=&quot;user_source_id&quot;]&#xd;
+</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//select[@name='user_source_id']&#xd;
-</value>
+         <value>//select[@name='user_source_id']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -23,7 +24,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>ad244dda-ed5d-47ba-95f7-2965cbcd5dbf</webElementGuid>
+      <webElementGuid>753ecd77-fd92-41d7-be93-2f1aecdce4a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +32,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user_source_id</value>
-      <webElementGuid>9f02b341-ac0f-4c00-bdbf-64d4f51bfe60</webElementGuid>
+      <webElementGuid>78306404-1301-48db-9a30-263dfa864166</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +40,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>38a610b6-b59f-41c8-9d0e-d11450a0d2d2</webElementGuid>
+      <webElementGuid>cca2d761-c9a4-4b15-b0e1-bab66e38b683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +49,7 @@
       <type>Main</type>
       <value>Tài khoản nguồn
                                                              autotest</value>
-      <webElementGuid>209283ae-6f0c-4983-b3bc-d5ef961892eb</webElementGuid>
+      <webElementGuid>0e41a87a-4cf7-49b7-86b1-0b4ce03de04a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;create_form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>b8313795-7b5e-450b-9850-6a6c1feb3d8d</webElementGuid>
+      <webElementGuid>1b6fd525-8296-401d-8132-b8f60f2a41a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +65,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='user_source_id']</value>
-      <webElementGuid>5909cb1b-6c7c-4cf0-beb2-3f44ddde2989</webElementGuid>
+      <webElementGuid>123be047-adb0-4b12-a207-ea8b0e680aa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='create_form']/div/div/div/select</value>
-      <webElementGuid>c4639c71-fd97-49a5-81ad-177455bf0b97</webElementGuid>
+      <webElementGuid>cc48e68d-0c02-435c-8cba-a4a2e1f0f2f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>35be5cca-1c81-42bc-85a8-ec744b8224a4</webElementGuid>
+      <webElementGuid>1fb9973b-c95c-4d38-b2c7-cbd1724c6cd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,13 +91,13 @@
       <value>//select[@name = 'user_source_id' and (text() = 'Tài khoản nguồn
                                                              autotest' or . = 'Tài khoản nguồn
                                                              autotest')]</value>
-      <webElementGuid>7cff8e08-66db-4a0b-96b5-479676af2723</webElementGuid>
+      <webElementGuid>7732cf8a-58ff-4d3d-82ef-023c5d9ab763</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <type>Main</type>
       <value>/html/body/div[1]/div[2]/main/div/div[2]/div/div/div[2]/div/div/div/div/form/div/div[1]/div[1]/select</value>
-      <webElementGuid>31616887-d7c2-40d2-a64c-a8ffd4b3190e</webElementGuid>
+      <webElementGuid>466fa17e-6fdb-481c-bacb-3956585b90b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
